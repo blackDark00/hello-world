@@ -1,5 +1,5 @@
 <?php
-//print welcom in indexPage
+//print welcom to indexPage in indexPage
 echo 'welcome to indexPage'
 $data = '';
 ?>
