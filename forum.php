@@ -1,5 +1,5 @@
 <?php
-//print welcome to forum Page
+//print welcome to forum page in forum Page
 echo 'welcome to forum page'
 $data = '';
 ?>
