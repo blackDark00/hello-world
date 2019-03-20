@@ -4,4 +4,5 @@ echo 'welcome to indexPage'
 
 $data = '';
 echo "Hello.data"
+//link to index forum.html
 ?>
