@@ -3,4 +3,5 @@
 echo 'welcome to forum page'
 $data = '';
 echo $data
+//yout can search about topic
 ?>
